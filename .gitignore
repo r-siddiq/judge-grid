@@ -1,0 +1,17 @@
+# Local browser-session telemetry and review screenshots
+.playwright-mcp/
+visual-ux-desktop.png
+gantt-check.png
+baseline-*.png
+check-*.png
+
+# Editor and OS noise
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local planning and workflow state (not published)
+.claude/
+PLAN.md
+.tasks.json
+log.md
