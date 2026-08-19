@@ -1,7 +1,7 @@
 # JudgeGrid
 
-An interactive, static project plan for a proposed enterprise model
-cost/performance routing benchmark. It describes how a future
+An interactive, static project plan for a proposed enterprise human-calibrated
+model evaluation and cost/performance routing benchmark. It describes how a future
 continuously-updated, rubric-grounded, cost-aware read could be produced; this
 file is not a live benchmark, measurement product, leaderboard, or source of
 current results.
